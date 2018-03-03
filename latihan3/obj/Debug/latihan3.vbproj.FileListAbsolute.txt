@@ -1,0 +1,14 @@
+C:\Users\Arinal\Documents\Visual Studio 2015\Projects\latihan3\latihan3\bin\Debug\latihan3.exe.config
+C:\Users\Arinal\Documents\Visual Studio 2015\Projects\latihan3\latihan3\bin\Debug\latihan3.exe
+C:\Users\Arinal\Documents\Visual Studio 2015\Projects\latihan3\latihan3\bin\Debug\latihan3.pdb
+C:\Users\Arinal\Documents\Visual Studio 2015\Projects\latihan3\latihan3\bin\Debug\latihan3.xml
+C:\Users\Arinal\Documents\Visual Studio 2015\Projects\latihan3\latihan3\obj\Debug\latihan3.vbprojResolveAssemblyReference.cache
+C:\Users\Arinal\Documents\Visual Studio 2015\Projects\latihan3\latihan3\obj\Debug\latihan3.FormLogin.resources
+C:\Users\Arinal\Documents\Visual Studio 2015\Projects\latihan3\latihan3\obj\Debug\latihan3.MainMenu.resources
+C:\Users\Arinal\Documents\Visual Studio 2015\Projects\latihan3\latihan3\obj\Debug\latihan3.Resources.resources
+C:\Users\Arinal\Documents\Visual Studio 2015\Projects\latihan3\latihan3\obj\Debug\latihan3.vbproj.GenerateResource.Cache
+C:\Users\Arinal\Documents\Visual Studio 2015\Projects\latihan3\latihan3\obj\Debug\latihan3.exe
+C:\Users\Arinal\Documents\Visual Studio 2015\Projects\latihan3\latihan3\obj\Debug\latihan3.xml
+C:\Users\Arinal\Documents\Visual Studio 2015\Projects\latihan3\latihan3\obj\Debug\latihan3.pdb
+C:\Users\Arinal\documents\visual studio 2015\Projects\latihan3\latihan3\obj\Debug\latihan3.formRoti.resources
+C:\Users\Arinal\documents\visual studio 2015\Projects\latihan3\latihan3\obj\Debug\latihan3.formCariKodeRoti.resources
